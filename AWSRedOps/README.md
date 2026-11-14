@@ -303,6 +303,4 @@ Unit tests are fully local and use mocks for AWS calls. They do not contact AWS 
 - [AWS IAM Identity Center authentication](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sso.html)
 - [Boto3 paginators](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/paginators.html)
 
-## License
 
-MIT. This code is provided as an authorization-scoped assessment toolkit; security controls and integration testing are the responsibility of the deployment environment.
